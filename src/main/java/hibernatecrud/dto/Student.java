@@ -27,4 +27,5 @@ public class Student {
 	private Date objectTime;
 	@UpdateTimestamp
 	private Date updateTime;
+//	dfghjkl;
 }
